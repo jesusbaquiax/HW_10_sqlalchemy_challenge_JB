@@ -1,2 +1,2 @@
-HW_10_sqlalchemy_challenge_JB
+# sqlalchemy-challenge
 HW_10
